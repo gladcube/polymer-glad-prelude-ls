@@ -1,0 +1,24 @@
+{
+  "name": "glad-prelude-ls",
+  "version": "0.0.1",
+  "authors": [
+    "akihitofujiwara <a-fujiwara@glad-cube.com>"
+  ],
+  "description": "",
+  "main": [
+    "glad-prelude-ls.html"
+  ],
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "~1.3.1"
+  }
+}

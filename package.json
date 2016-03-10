@@ -1,0 +1,19 @@
+{
+  "name": "polymer-glad-prelude-ls",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "node build.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^1.5.2",
+    "browserify": "^13.0.0",
+    "browserify-livescript": "^0.2.3",
+    "jade": "^1.11.0",
+    "prelude-ls": "^1.1.2"
+  }
+}
