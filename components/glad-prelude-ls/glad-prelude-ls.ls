@@ -1,2 +1,2 @@
-window.UtilityPreludeLS = require \prelude-ls
+Polymer.GladPreludeLs = require \prelude-ls
 
